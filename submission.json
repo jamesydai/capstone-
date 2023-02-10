@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "avi57/aif360:latest",
+    "build-script": "python run.py"
+}
